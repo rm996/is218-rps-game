@@ -219,5 +219,5 @@ I reviewed the code by running the automated checks and manually playing the gam
 - **Checks:** PASS - Black, Pylint, 25 non-browser tests, and 6 browser tests.
 - **Manual verification:** Rock beat Scissors, replay worked, and keyboard controls worked.
 - **Pull request:** https://github.com/rm996/is218-rps-game/pull/2
-- **CI:** Add the URL of the successful GitHub Actions run.
+- **CI:** https://github.com/rm996/is218-rps-game/pull/2/checks
 - **Final status:** Implementation, local testing, and initial GitHub Actions checks passed. Final review and merge are pending.
