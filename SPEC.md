@@ -211,13 +211,13 @@ I reviewed the code by running the automated checks and manually playing the gam
 
 ### Work Record
 
-- **Issue:** Add the actual GitHub issue URL.
+- **Issue:** https://github.com/rm996/is218-rps-game/issues/1
 - **Branch:** `rps-001`
 - **Implementation:** Completed in `game.py`.
 - **Unit and integration tests:** `tests/test_game.py`
 - **Real-browser tests:** `tests/e2e/test_round.py`
 - **Checks:** PASS - Black, Pylint, 25 non-browser tests, and 6 browser tests.
 - **Manual verification:** Rock beat Scissors, replay worked, and keyboard controls worked.
-- **Pull request:** Add the actual pull request URL after creating it.
-- **CI:** Add the actual successful GitHub Actions run URL after verification.
-- **Final status:** Implementation and local testing completed. GitHub review and merge are pending.
+- **Pull request:** https://github.com/rm996/is218-rps-game/pull/2
+- **CI:** Add the URL of the successful GitHub Actions run.
+- **Final status:** Implementation, local testing, and initial GitHub Actions checks passed. Final review and merge are pending.
